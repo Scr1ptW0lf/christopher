@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/21 08:36:18.000.370,=C:\Users\22avanwyk\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/03 11:21:11.000.152,=C:\Users\22avanwyk\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/03 11:21:26.000.614,=C:\Users\22avanwyk\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 10:12:06.000.311,=C:\Users\22avanwyk\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 10:12:28.000.884,C:\Users\22avanwyk\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\22avanwyk\Desktop\Crypt\p_Crypt.dfm</Transaction>
+    <Transaction>2020/11/04 10:12:28.000.884,C:\Users\22avanwyk\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\22avanwyk\Desktop\Crypt\p_Crypt.pas</Transaction>
+    <Transaction>2020/11/04 10:12:44.000.177,C:\Users\22avanwyk\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\22avanwyk\Desktop\Crypt\proj_Crypt.dproj</Transaction>
+    <Transaction>2020/11/05 19:01:29.000.423,=C:\Users\david\OneDrive\Desktop\Crypt\New1.txt</Transaction>
+    <Transaction>2020/11/05 19:01:47.000.349,C:\Users\david\OneDrive\Desktop\Crypt\New1.txt=C:\Users\david\OneDrive\Desktop\Crypt\crypt.txt</Transaction>
+    <Transaction>2020/11/05 19:01:59.000.337,C:\Users\david\OneDrive\Desktop\Crypt\crypt.txt=C:\Users\david\OneDrive\Desktop\Crypt\Win32\Debug\crypt.txt</Transaction>
+  </Transactions>
+</BorlandProject>
